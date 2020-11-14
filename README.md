@@ -1,6 +1,6 @@
 # Install-MY-SQL-Ubuntu
 
-# how to install MYSQL test on ubuntu 20.04 
+# How to install MYSQL on ubuntu 20.04 
 
 1. sudo apt update
 
